@@ -1,0 +1,15 @@
+.row{
+    background-color: blueviolet;
+    height: 4rem;
+    margin-top: 25%;
+}
+
+.row button{
+    height:2rem;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
